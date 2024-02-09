@@ -1,0 +1,39 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    display: flex;
+    background-color: rgb(236, 230, 232);
+    justify-content: space-between;
+}
+
+.main-title {
+    font-size: 80px;
+    font-weight: bold;
+    margin-left: 220px;
+    margin-top: 220px;
+    margin-bottom: 40px;
+}
+
+.sub-title {
+    color: rgb(70, 68, 68);
+    margin-left: 220px;
+}
+
+.btn-prime {
+    border-radius: 8px;
+    background-color: palevioletred;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 40px;
+    margin-left: 220px;
+    margin-top: 40px;
+}
+
+.image-flower {
+    margin-top: 50px;
+    margin-right: 200px;
+}
