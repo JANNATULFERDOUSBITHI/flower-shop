@@ -37,3 +37,79 @@ header {
     margin-top: 50px;
     margin-right: 200px;
 }
+.second-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.second-description{
+    text-align: center;
+}
+.second-container{
+    display: flex;
+    justify-content: center;
+}
+.first-flower{
+    background-color: pink;
+    padding: 30px;
+    border-radius: 5px;
+    margin: 50px;
+}
+.second-flower{
+    background-color: skyblue;
+    padding: 30px;
+    border-radius: 5px;
+    margin: 50px;
+}
+.third-flower{
+    background-color: thistle;
+    padding: 30px;
+    border-radius: 5px;
+    margin: 50px;
+}
+.icons{
+    padding: 100px;
+    background-color: rgb(245, 235, 215);
+    margin: 70px 300px;
+}
+.icons-portion{
+    display: flex;
+    justify-content: center;
+}
+.ic-1{
+    margin-right: 300px;
+}
+.ic-2{
+    margin-right: 300px;
+}
+
+.hot-deal{
+    padding: 100px;
+    background-color: rgb(245, 235, 215);
+    
+}
+.deal-part{
+   display: flex;
+   justify-content: space-between;
+}
+.sale-part{
+    
+    font-size: 25px;
+}
+
+.insta{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.instap{
+    text-align: center;
+}
+
+.aset-image{
+    display: flex;
+    justify-content: center;
+}
+.bg-img{
+    background-image: url();
+}
